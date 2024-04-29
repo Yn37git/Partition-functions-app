@@ -84,7 +84,7 @@ def to_list(q):
 
 
 
-st.set_page_config(page_title="Colored $(l,m)$-regular partitions of n",page_icon=":flags:")
+st.set_page_config(page_title="Colored (l,m)-regular partitions of n",page_icon=":flags:")
 st.sidebar.header(('Colored (l,m)-regular partitions of n'))
 
 st.markdown('## $s$ Colored $(l,m)$-regular partitions of n = $c_{l,m}^s(n)$ ')
