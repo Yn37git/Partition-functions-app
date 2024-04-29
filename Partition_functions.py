@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Introduction",page_icon=":notebook:")
 st.sidebar.header(('Introduction '))
-st.sidebar.write("[![Star](<https://img.shields.io/github/stars/Yn37git/Partition-functions-app>/<repo>.svg?logo=github&style=social)](<https://gitHub.com/Yn37git/Partition-functions-app>)")
+st.sidebar.write("![GitHub Repo stars](https://img.shields.io/github/stars/yn37git/Partition-functions-app)")
 
 st.markdown(r"""
 # Partitions
